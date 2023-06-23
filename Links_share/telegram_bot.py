@@ -4,7 +4,7 @@ import telegram.ext
 Token = '5845532348:AAEg-aU7WnCNoz_aK1UnAhYWjP_rAzafkQ$'
 
 # Updater obj will perform action with our bot 
-updater = telegram.ext.Updater("5845532348:AAEg-aU7WnCNoz_aK1UnAhYWjP_rAzafkQs", use_context=True)
+updater = telegram.ext.Updater("5845532348:AAEg-aU7WnCNoz_aK1UnAhYWjP_rAzafkQ$", use_context=True)
 
 dispatcher = updater.dispatcher
 

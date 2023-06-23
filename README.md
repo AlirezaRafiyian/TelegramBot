@@ -17,7 +17,7 @@ I. Navigate to the project directory:
 
 II. Install the required dependencies:
   pip install -r requirements.txt
-
+** Do not forget to get the Token from Telegram BotFather.
 ## Attention
 [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-13.3-blue)](https://pypi.org/project/python-telegram-bot/13.3/)
 

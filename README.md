@@ -10,7 +10,7 @@ This is a Python program for building a basic Telegram bot to share links.
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AlirezaRafiyian/TelegramBot.git
 
 I. Navigate to the project directory:
   cd your-repository
